@@ -1,0 +1,7 @@
+KiCad library to imagefile
+==========================
+
+This is an attempt to create a script, that is able to generate images of the
+components contained in a library.
+
+_This is definetly not finished!_
